@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "387039193633",
+    "firebase_url": "https://foodtukk-fdb50.firebaseio.com",
+    "project_id": "foodtukk-fdb50",
+    "storage_bucket": "foodtukk-fdb50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387039193633:android:3fdb8f7c18aabae2bd1160",
+        "android_client_info": {
+          "package_name": "com.example.food_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387039193633-dp0mj51vm8gmhvkcfvn7jbt7bgrllk3q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.food_delivery",
+            "certificate_hash": "ba7e61c872ad3bf0be3f08922f19be5ebce1c14b"
+          }
+        },
+        {
+          "client_id": "387039193633-9pg9rvdtul1j50qbtftm17oiiqoi663a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqCI3hg1wXCCxI2Kvl_cZYy5MfjdjWuBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387039193633-9pg9rvdtul1j50qbtftm17oiiqoi663a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
