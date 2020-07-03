@@ -1,3 +1,4 @@
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:food_delivery/Restaurant/resthome.dart';
 import 'package:food_delivery/Restaurant/rlogin.dart';
@@ -14,7 +15,10 @@ import './cart.dart';
 import './loginpage/signup_page.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 
-void main() => runApp(MyApp());
+void main() {
+  debugDefaultTargetPlatformOverride =TargetPlatform.fuchsia;
+   runApp(MyApp());
+}
 
 class MyApp extends StatelessWidget {
   @override

@@ -11,7 +11,7 @@ class PaymentPage extends StatelessWidget {
     return Scaffold(
       resizeToAvoidBottomPadding: false,
       body: Padding(
-        padding: EdgeInsets.symmetric(horizontal: 15.0),
+        padding: EdgeInsets.symmetric(horizontal: 10.0),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
@@ -21,11 +21,11 @@ class PaymentPage extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.start,
                 children: <Widget>[
                   Padding(
-                    padding: const EdgeInsets.fromLTRB(1,15,10,15),
+                    padding: const EdgeInsets.fromLTRB(1,10,10,15),
                     child: GestureDetector(
                       child: Icon(
                         CupertinoIcons.back,
-                        size: 38,
+                        size: 45,
                       ),
                       onTap: () {
                         Navigator.pop(context);
@@ -42,7 +42,7 @@ class PaymentPage extends StatelessWidget {
                 ],
               ),
             ),
-            SizedBox(height: 20),
+            SizedBox(height: 40),
             Container(
               decoration: BoxDecoration(
                   color: Themes.color,
@@ -108,10 +108,11 @@ class PaymentPage extends StatelessWidget {
                 ),
               ),
             ),
-            SizedBox(height: 50),
+            SizedBox(height: 150),
             Container(
               padding: EdgeInsets.all(125),
-              width: 310,
+              height: 350,
+              width: 340,
               decoration: new BoxDecoration(
                 color: Colors.white24,
                 image: DecorationImage(

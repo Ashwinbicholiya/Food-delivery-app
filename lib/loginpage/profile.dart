@@ -23,8 +23,8 @@ class _ProfilePageState extends State<ProfilePage> {
             clipper: getClipper(),
           ),
           Positioned(
-            width: 350.0,
-            top: MediaQuery.of(context).size.height / 4.5,
+            width: 375.0,
+            top: MediaQuery.of(context).size.height / 3.5,
             child: Column(
               children: <Widget>[
                 Container(
@@ -61,7 +61,7 @@ class _ProfilePageState extends State<ProfilePage> {
                     fontWeight: FontWeight.bold,
                   ),
                 ),
-                SizedBox(height: 30.0),
+                SizedBox(height: 40.0),
                 Container(
                   height: 40.0,
                   width: 250.0,
@@ -86,7 +86,7 @@ class _ProfilePageState extends State<ProfilePage> {
                     ),
                   ),
                 ),
-                SizedBox(height: 30.0),
+                SizedBox(height: 40.0),
                 Container(
                   height: 40.0,
                   width: 250.0,
@@ -131,8 +131,8 @@ class getClipper extends CustomClipper<Path> {
   @override
   Path getClip(Size size) {
     var path = new Path();
-    path.lineTo(0.0, size.height / 2.2);
-    path.lineTo(size.width + 450, 0.0);
+    path.lineTo(0.0, size.height / 2.0);
+    path.lineTo(size.width + 480, 0.0);
     path.close();
     return path;
   }
