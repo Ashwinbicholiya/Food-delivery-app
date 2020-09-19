@@ -64,7 +64,7 @@ class FirstPage extends StatelessWidget {
                   color: Themes.color,
                   borderRadius: BorderRadius.circular(30.0),
                   boxShadow: [BoxShadow(blurRadius: 2.0, color: Themes.color)]),
-              width: 237,
+              width: 245,
               child: Align(
                 alignment: Alignment.centerRight,
                 child: MaterialButton(

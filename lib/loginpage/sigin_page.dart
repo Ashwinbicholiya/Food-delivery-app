@@ -43,7 +43,7 @@ class _SignInPageState extends State<SignInPage> {
               decoration: BoxDecoration(
                   color: Themes.color,
                   borderRadius: BorderRadius.circular(30.0)),
-              width: 220.0,
+              width: 225.0,
               child: Align(
                 alignment: Alignment.centerRight,
                 child: MaterialButton(

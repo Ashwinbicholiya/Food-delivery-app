@@ -48,7 +48,7 @@ class PaymentPage extends StatelessWidget {
                   color: Themes.color,
                   borderRadius: BorderRadius.circular(30.0),
                   boxShadow: [BoxShadow(blurRadius: 2.0, color: Themes.color)]),
-              width: 240.0,
+              width: 245.0,
               child: Align(
                 alignment: Alignment.centerRight,
                 child: MaterialButton(
@@ -81,7 +81,7 @@ class PaymentPage extends StatelessWidget {
                   color: Themes.color,
                   borderRadius: BorderRadius.circular(30.0),
                   boxShadow: [BoxShadow(blurRadius: 2, color: Themes.color)]),
-              width: 240.0,
+              width: 245.0,
               child: Align(
                 alignment: Alignment.centerRight,
                 child: MaterialButton(
