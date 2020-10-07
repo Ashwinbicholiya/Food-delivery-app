@@ -1,5 +1,3 @@
-[![HitCount](http://hits.dwyl.com/Ashwinbicholiya/{project}.svg)](http://hits.dwyl.com/Ashwinbicholiya/{project})
-
 #Food delivery app
 
 A new Flutter project.
