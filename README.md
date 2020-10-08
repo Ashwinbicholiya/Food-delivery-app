@@ -17,8 +17,6 @@ https://www.linkedin.com/in/ashwin-bicholiya-9938481a0
 
 For help getting started with Flutter, view our online
 [documentation](http://flutter.io/).
-![Image](image/fa.png)
-
 For help on editing plugin code, view the [documentation](https://flutter.io/platform-plugins/#edit-code).
 
 
