@@ -2,9 +2,7 @@
 
 ### Show some :heart: and star the repo to support the project
 
-<a href="https://www.linkedin.com/in/ashwin-bicholiya-9938481a0/">
-  <img align="left" alt="Ashwin's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/ashwin-bicholiya-9938481a0/)
 
 ### Apk
 https://drive.google.com/file/d/17dFLghpxs5x_lWXH_xyEmrzMMi4FT_8E/view?usp=drivesdk
