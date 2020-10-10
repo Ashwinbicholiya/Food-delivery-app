@@ -8,7 +8,7 @@
 <br/>
 
 ### Check Other Flutter Project
-## SCANPAY Self Checkout App 
+SCANPAY Self Checkout App 
 https://github.com/Ashwinbicholiya/scanpay
 
 ### Apk
