@@ -7,6 +7,10 @@
 </a>[Linkedin]
 <br/>
 
+### Check Other Flutter Project
+## SCANPAY Self Checkout App 
+https://github.com/Ashwinbicholiya/scanpay
+
 ### Apk
 https://drive.google.com/file/d/17dFLghpxs5x_lWXH_xyEmrzMMi4FT_8E/view?usp=drivesdk
 
