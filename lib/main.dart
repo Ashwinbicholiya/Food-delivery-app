@@ -57,6 +57,7 @@ class _HomeState extends State<Home> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+resizeToAvoidBottomInset: false,
       drawer: Drawer(
         child: Column(
           children: <Widget>[
